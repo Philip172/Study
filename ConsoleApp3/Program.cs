@@ -14,7 +14,9 @@ namespace ConsoleApp3
             {
                 try
                 {
-                    big = BigInteger.Pow(2, (int)big);
+                    var pow = (int)big;
+
+                    big = BigInteger.Pow(2, pow);
 
                     Console.WriteLine("\n\n\n\n");
                     Console.WriteLine(big);
