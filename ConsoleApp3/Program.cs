@@ -7,17 +7,15 @@ namespace ConsoleApp3
     {
         static void Main(string[] args)
         {
-            bool save = false;
+            var save = false;
             BigInteger big = 2;
             
             while(!save)
             {
-
-
                 try
                 {
+                    big = BigInteger.Pow(2, (int)big);
 
-                    big*=big;
                     Console.WriteLine("\n\n\n\n");
                     Console.WriteLine(big);
                 }
@@ -26,9 +24,9 @@ namespace ConsoleApp3
                     Console.WriteLine("ERROR MEMORY");
                     save = true;
                 }
-                catch
+                catch(Exception e)
                 {
-                    Console.WriteLine("ERROR");
+                    Console.WriteLine(e.Message);
                     save = true;
                 }
                 

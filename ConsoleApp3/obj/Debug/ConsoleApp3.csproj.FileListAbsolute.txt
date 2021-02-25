@@ -5,3 +5,10 @@ C:\Users\Филипп\source\repos\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssem
 C:\Users\Филипп\source\repos\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
 C:\Users\Филипп\source\repos\ConsoleApp3\obj\Debug\ConsoleApp3.exe
 C:\Users\Филипп\source\repos\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Projects\Fill\Study\ConsoleApp3\obj\Debug\ConsoleApp3.csprojAssemblyReference.cache
+C:\Projects\Fill\Study\ConsoleApp3\obj\Debug\ConsoleApp3.csproj.CoreCompileInputs.cache
+C:\Projects\Fill\Study\ConsoleApp3\obj\Debug\ConsoleApp3.exe
+C:\Projects\Fill\Study\ConsoleApp3\obj\Debug\ConsoleApp3.pdb
+C:\Projects\Fill\Study\ConsoleApp3\bin\Debug\ConsoleApp3.exe.config
+C:\Projects\Fill\Study\ConsoleApp3\bin\Debug\ConsoleApp3.exe
+C:\Projects\Fill\Study\ConsoleApp3\bin\Debug\ConsoleApp3.pdb
